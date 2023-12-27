@@ -1,1 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+
+
+
+p-card{
+    margin-top: 170px;
+    border-radius: 20px;
+
+}
+
+#logout{
+    align-items: center;
+    padding-left: 65px;
+}
+
+#login{
+    align-items: center;
+    padding-left: 75px;
+}
+
+body{
+    background-image: url('../src/assets/images/360_F_361269135_a54Vh9tn8alYOtSBVht2kzMLC03qApRa.jpg');
+}
+
+h5, span{
+    display: inline;
+}
+
+.circular--square { border-radius: 50%; }
+
+/* #whole{
+
+} */
